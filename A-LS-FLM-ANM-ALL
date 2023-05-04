@@ -1,8 +1,8 @@
 <item>				
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
 <link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]9: A Salvação (2009)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=9HoGb9hxkG8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]9: A Salvasao[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=9HoGb9hxkG8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]9: A Salvasao[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29cb75630156078af7b3bffcb596929d027b0580$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]9: A Salvasao - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0239d81a403eaa5c6ce4b5d872f1dfb3e68d319d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]9: A Salvasao - FHD DUB[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-9.A.Salvacao.2009.FHD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]9: A Salvasao - FHD DUB[/B][/COLOR]</link>				
@@ -31,7 +31,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]A Casa Monstro (2006) [/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=q3h98qqikyA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Casa Monstro[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=q3h98qqikyA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Casa Monstro[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:525baeb9c9f4734ff5a68dd8cd3555c59553ed1e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Casa Monstro - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9df098b7682eac9ca9929b30edbeef4bae4dcc5$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Casa Monstro - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-A.Casa.Monstro.2006.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Casa Monstro - FHD DUB[/B][/COLOR]</link>				
@@ -44,7 +44,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]A Noiva Cadáver (2005)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=ZE5CbXVheJk&list=PL9eQ9KTAJwMosV64ooiqFC-ApTPMt1vmy$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Noiva Cadaver[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=ZE5CbXVheJk&list=PL9eQ9KTAJwMosV64ooiqFC-ApTPMt1vmy$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Noiva Cadaver[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99807369a646ba5d14fe9a5bf2c3ec14f03fb409$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Noiva Cadaver - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d2448ef3d10a2f536cefac6cb7bcc199ef86453$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Noiva Cadaver - FHD DUB[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-A.Noiva.Cadaver.2005.FHD.dud.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Noiva Cadaver - FHD DUB[/B][/COLOR]</link>				
@@ -57,7 +57,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]As Aventuras de Tintim (2011)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]As Aventuras de Tintim[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]As Aventuras de Tintim[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9402125620cb9d34cc9151e17d664a5a1304b1ef$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Aventuras de Tintim - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51afb0314a5a3a387ee2d6792384a2dfbc2da62b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Aventuras de Tintim - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-As.Aventuras.de.Tintin.O.Segredo.do.Unicornio.2011.HD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]As Aventuras de Tintim - FHD DUB[/B][/COLOR]</link>				
@@ -86,7 +86,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Encanto (2021)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=0Ss-6WPL_dI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Encanto[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=0Ss-6WPL_dI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Encanto[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32d109fbb1025de73dc0065166dd077d2732723c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Encanto - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:810057628863215d5d8eb7acc2e660308673dbcc$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Encanto - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-Encanto.2021%20.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Encanto - FHD DUAL[/B][/COLOR]</link>				
@@ -127,7 +127,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Lightyear (2022)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=N8Wg1befTVw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Lightyear[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=N8Wg1befTVw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Lightyear[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9064bb29203e9621af700469b7d7a371a4c53369$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Lightyear - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2SULPNPFJNCFFMEZJURTJ2CHRD7CH4PS$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Lightyear - FHD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5YU76M2KBS3QSCHRRQSOKGZJJ2VBZ725$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Lightyear - UFHD 4K DUAL[/B][/COLOR]</link>
@@ -141,7 +141,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Luca (2021)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=YdAIBlPVe9s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Luca[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=YdAIBlPVe9s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Luca[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Luca - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e88d7e02bf184aab8760055ee01b2c64166ac5f7$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Luca - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FLM/LS-Luca.2021.FHD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Luca - FHD DUB[/B][/COLOR]</link>				
@@ -166,7 +166,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]O Estranho Mundo de Jack (1993)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=Ie3lhEebWW4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Estranho Mundo de Jack[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=Ie3lhEebWW4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Estranho Mundo de Jack[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28975a6bb5f9d9270189420df2f3b6cf11502a3d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daac08b7f811c3b202775e0591e4a89a4ac7a6be$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-O.Estranho.Mundo.de.Jack.1993.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack - FHD DUB[/B][/COLOR]</link>				
@@ -179,7 +179,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]O Gigante de Ferro (1999)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=OTnu-cGP17w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Gigante de Ferro[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=OTnu-cGP17w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Gigante de Ferro[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95765a339fb2f4c830996b24b06e6ff483b2fdff$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Gigante de Ferro - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:017642fbb9957eda1f0507fa0075183f089395f4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Gigante de Ferro - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-O.Gigante.de.Ferro.1999.HD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Gigante de Ferro - HD DUB[/B][/COLOR]</link>				
@@ -196,7 +196,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]Planeta 51 (2009) [/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=zaBAOVslv08$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Planeta 51[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=zaBAOVslv08$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Planeta 51[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e928a0cc53638afa217640366844fa478cb0aa10$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Planeta 51 - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b7a23a85cc068ee475493edf3746fd806fa9969$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Planeta 51 - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-Planeta.51.2009.HD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Planeta 51 - HD DUAL[/B][/COLOR]</link>				
@@ -217,7 +217,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B][COLOR white]Red: Crescer é Uma Fera (2022)[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=XMsDjGUd838$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Red Crescer e Uma Fera[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=XMsDjGUd838$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Red Crescer e Uma Fera[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd82f3571e5898f706a953a457d4b86a8408bcff$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Red Crescer e Uma Fera - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:zkgykphelgijfjoycv3dbuz6shocam4e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Red Crescer e Uma Fera - FHD DUAL[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-Red.Crescer.uma.Fera.2022.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Red Crescer e Uma Fera - FHD DUAL[/B][/COLOR]</link>
@@ -242,7 +242,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]Up: Altas Aventuras (2009)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=yADAYe9efE0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Up: Altas Aventuras[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=yADAYe9efE0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Up: Altas Aventuras[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:449c7b5df60bb2e9ef927aae50f66824e08937f0$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Up: Altas Aventuras - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca294c5f6afb34519b04a9edf98822f1953a0b65$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Up: Altas Aventuras - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-Up-Altas.Aventuras.2009.FHD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Up: Altas Aventuras - DUB - LEGFIX[/B][/COLOR]</link>				
@@ -259,7 +259,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Vida de Inseto (1998)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=znXehHytQcM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Vida de Inseto [/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=znXehHytQcM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Vida de Inseto [/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1619d92647d3aad4b2ec1fa8db61ddef4eea13f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Vida de Inseto - HD DUB[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72d2c69d8820b0d15ef3bac34ff689333b4a98be$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Vida de Inseto - FHD LEG[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-Vida.de.Inseto.1998.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vida de Inseto - FHD DUB[/B][/COLOR]</link>				
@@ -272,7 +272,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Viva - A Vida é Uma Festa (2017)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=iLmZZV-Nkuk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Viva - A Vida e Uma Festa[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=iLmZZV-Nkuk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Viva - A Vida e Uma Festa[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f79fca6a60b47244434e57806b8ad9ffcca3be2c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Viva - A Vida e Uma Festa - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13e0b4e8fb184a2d67a0ba0ddd13a8f5dd94506f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Viva - A Vida e Uma Festa - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-Viva.A.Vida.Uma.Festa.2017.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Viva - A Vida e Uma Festa - HD DUB[/B][/COLOR]</link>				
@@ -301,28 +301,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 								
 				
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
+<item>
 <title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
-				
-				
-				
+	
