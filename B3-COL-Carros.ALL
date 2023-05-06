@@ -1,16 +1,16 @@
 <item>				
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
 <link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+			
 <item>				
 <title>[B][COLOR white]Carros 1 (2006)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=CMLc5Dxre0Y$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Carros 1[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=CMLc5Dxre0Y$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Carros 1[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:532a821cd3e4a31594b661de2c9e8622546c4655$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Carros 1 - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83d0b800ee8eed868700cd6a1d013b9133712ec6$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Carros 1 - FHD DUB[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Carros/LS-Carros.1.2006.FHD.DUAL.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Carros 1 - FHD DUAL[/B][/COLOR]</link>				
@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]Carros 2 (2011)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=85KgFS__3Sw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Carros 2[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=85KgFS__3Sw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Carros 2[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b7478a890fa18c44e6c1f9454e521066bb85cb4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Carros 2 - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abb4e8dd06b6dbf69f1d6a5f094cc1d9bc867b0c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Carros 2 - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Carros/LS-Carros.2.2011.FHD.DUAL.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Carros 2 - FHD DUAL[/B][/COLOR]</link>				
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]Carros 3 (2017)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=2LeOH9AGJQM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Carros 3[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=2LeOH9AGJQM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Carros 3[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e30041ec1a6395e81109b417d1a131cc802920a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Carros 3 - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d98f5c14a3a4c9a26f15c8e6797dd6ae20e44e3$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Carros 3 - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Carros/LS-Carros.3.2017.FHD.DUAL.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Carros 3 - FHD DUAL[/B][/COLOR]</link>				
@@ -49,7 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Carros - As Grandes Histórias do Mate (2010)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=MlOct8tySXM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Carros - As Grandes Historias do Mate[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=MlOct8tySXM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Carros - As Grandes Historias do Mate[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16281324647d4603f9d5e589833038bbeb88d7cc$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Carros - As Grandes Historias do Mate - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3344cea13f5b1a4f5e967d5f40bdb514cf807a38$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Carros - As Grandes Historias do Mate - FHD DUB[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Carros/LS-As.Grandes.Historias.do.Mate.2010.FHD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Carros - As Grandes Historias do Mate - FHD DUB[/B][/COLOR]</link>				
@@ -60,25 +60,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+			
 				
