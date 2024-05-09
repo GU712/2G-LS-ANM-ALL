@@ -30,6 +30,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Muppets e o Caos Elétrico (2023) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D4B2-SRS-Muppets.e.o.Caos.Eletrico.2023-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/oe5EwoDBtNKBJprtyVrP1oe2ABA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7qF5ZimgUiiawiesuG5S05B1zH.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Muppets e o Caos Elétrico
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 10 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após 45 anos de rock and roll, a Desordem Elétrica embarca em uma jornada musical épica para finalmente gravar seu primeiro disco de estúdio.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR black].[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D4B-SRS-Muppets-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
@@ -148,5 +166,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
