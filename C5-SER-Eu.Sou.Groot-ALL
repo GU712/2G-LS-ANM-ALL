@@ -7,17 +7,7 @@
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-		
-<item>		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Eu Sou Groot - O Carinha[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=5kzT_wjfSPE</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/nfixtLlkKg6D8aNTldBUWmvw20N.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/tTrZap8lEJsdpnab5yIR3d9bedg.jpg</fanart>		
-<info>Assista ao trailer</info>		
-<genre>ANIMAÇÃO</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
+				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 TORRENTS		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
@@ -41,11 +31,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 05 EPs[/B][/COLOR]</link>		
 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/7-ANM/Eu.Sou.Groot/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Os primeiros passos de Groot [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/7-ANM/Eu.Sou.Groot/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Carinha  [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/7-ANM/Eu.Sou.Groot/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A perseguisao de Groot [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/7-ANM/Eu.Sou.Groot/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Groot toma banho [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/7-ANM/Eu.Sou.Groot/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Bom trabalho [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/Eu.Sou.Groot/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Os primeiros passos de Groot [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/Eu.Sou.Groot/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Carinha  [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/Eu.Sou.Groot/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A perseguisao de Groot [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/Eu.Sou.Groot/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Groot toma banho [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/Eu.Sou.Groot/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Bom trabalho [/B][/COLOR]</link>		
 		
 <thumbnail>https://www.themoviedb.org/t/p/original/nfixtLlkKg6D8aNTldBUWmvw20N.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/tTrZap8lEJsdpnab5yIR3d9bedg.jpg</fanart>		
@@ -53,27 +43,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>		
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Eu Sou Groot - O Carinha (2022) - T02 - FHD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
-		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/nfixtLlkKg6D8aNTldBUWmvw20N.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/tTrZap8lEJsdpnab5yIR3d9bedg.jpg</fanart>		
-<info>Baby Groot está pronto para dar seus primeiros passos fora de seu vaso, aprendendo que se deve andar antes de correr.</info>		
-<genre>ANIMAÇÃO</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
+				
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -95,7 +65,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
