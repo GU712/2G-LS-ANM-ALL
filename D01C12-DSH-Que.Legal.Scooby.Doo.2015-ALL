@@ -1,266 +1,535 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]Que Legal, Scooby-Doo![/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/f3BcfmJdmPWJ6PrdKIe9GosjAQ1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+<info>[COLOR white]Assista aqui a série  o desenho a novela: 
+[B]Que Legal, Scooby-Doo!
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2015 a 2017
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 52 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A série apresenta a Mistério S/A após terminar seu último ano do ensino médio. 
+Fazendo planos para gastar a sua última parada de verão como uma equipe, eles decidem viajar para buscar aventura.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (2015) 26 EPs - FHD DUAL[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Introdução a Mistérios[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Introdução a Mistérios[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]O Jogo da Galinha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Jogo da Galinha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Todas as Patas no Convés[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Todas as Patas no Convés[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Justiça Poodle[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Justiça Poodle[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Grande Esquema[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Grande Esquema[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Troca de Investigação[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Troca de Investigação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Silêncio, Scooby-Doo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Silêncio, Scooby-Doo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Aproveite Como se Fosse [/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Aproveite Como se Fosse [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Grito Donna[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Grito Donna[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Pesadelo na Cozinha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Pesadelo na Cozinha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Eu, Eu Mesmo e l.A.[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Eu, Eu Mesmo e l.A.[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Anexo da Área [/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Anexo da Área [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Onde Tem Testamento, Tem Fantasma[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Onde Tem Testamento, Tem Fantasma[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Se Não Quer Ir Para a Prisão, Não Arranje Confusão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Se Não Quer Ir Para a Prisão, Não Arranje Confusão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Infeliz Natal[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Infeliz Natal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Gremlin no Avião[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Gremlin no Avião[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Susto com os Biscoitos Feiticeiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Susto com os Biscoitos Feiticeiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]A Saga do Monstro do Pântano[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]A Saga do Monstro do Pântano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Fica Frio, Scooby-Doo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Fica Frio, Scooby-Doo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Problemas Gigantes[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Problemas Gigantes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]O Pavor dos Corvos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]O Pavor dos Corvos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]Eu Scooby Dooby Do[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Eu Scooby Dooby Do[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]El Bandito[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]El Bandito[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Na Boca do Maluco[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Na Boca do Maluco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Acampamento Nórdico[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Acampamento Nórdico[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]O Povo Contra Fred Jones[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]O Povo Contra Fred Jones[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T01/LS-T01E26.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ib8pB8MLCRe0qCDTjhw6boADaFK.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 02 (2017) 26 EPs - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 02 (2017) 26 EPs - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Um Tempo para o Fred[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Um Tempo para o Fred[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Vet Lobo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Vet Lobo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Susto Renascentista[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Susto Renascentista[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Como Treinar Seu Covarde[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Como Treinar Seu Covarde[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]O Pior do Concurso[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]O Pior do Concurso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Mistério no Expresso Desoriente[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Mistério no Expresso Desoriente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]Dia das Bruxas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Dia das Bruxas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]A Maldição do Kaniaku[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]A Maldição do Kaniaku[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Vote na Velma[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Vote na Velma[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Scroogie-Doo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Scroogie-Doo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]No Espaço[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]No Espaço[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Não Perturbe[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Não Perturbe[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]Grito Mudo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Grito Mudo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Susto Mágico[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Susto Mágico[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Grécia é o Lugar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Grécia é o Lugar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Gótico Americano[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Gótico Americano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]Omeletes Para Sempre[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Omeletes Para Sempre[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]Fantasma na Máquina de Mistério[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Fantasma na Máquina de Mistério[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white]Caloroso ou Frio[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]Caloroso ou Frio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]A Noite do Short da Vergonha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]A Noite do Short da Vergonha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]Cães de Lixão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]Cães de Lixão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E22[COLOR yellow] -> [COLOR white]Titãs da Proteína [/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]Titãs da Proteína [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E23[COLOR yellow] -> [COLOR white]Mundo da Bruxaria[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E23[COLOR yellow] -> [COLOR white]Mundo da Bruxaria[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E24[COLOR yellow] -> [COLOR white]Gambá da Pizza / A Maldição do Tesouro do Meia-Barba[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E24[COLOR yellow] -> [COLOR white]Gambá da Pizza / A Maldição do Tesouro do Meia-Barba[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E25[COLOR yellow] -> [COLOR white]Professor Huh? (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E25[COLOR yellow] -> [COLOR white]Professor Huh? (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E26[COLOR yellow] -> [COLOR white]Professor Huh? (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E26[COLOR yellow] -> [COLOR white]Professor Huh? (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/2015.Que.Legal.Scooby.Doo/T02/LS-T02E26.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hUlin2T1y148LrHg76aDkYjwidL.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/zIYLEh1eJuENTdyTV0tmeh77AnC.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
