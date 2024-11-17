@@ -1,226 +1,437 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]O Show do Scooby Doo[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>	
+<fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]O Show do Scooby Doo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1976 a 1978
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 40 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1976) 16 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Aventura Arrepiante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Aventura Arrepiante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]O Anfitriao E Uma Assombrasao[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Anfitriao E Uma Assombrasao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Jogo Horripilante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Jogo Horripilante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Fantasma Chocante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Fantasma Chocante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]O Cavaleiro Sem-Cabesa De Halloween[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Cavaleiro Sem-Cabesa De Halloween[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Muito Susto Em Camelot[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Muito Susto Em Camelot[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]O Sanatorio Assustador[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Sanatorio Assustador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]O Zumbi sem Rosto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Zumbi sem Rosto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Mamba Wamba[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Mamba Wamba[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]O Demonio[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Demonio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Uma Parada para Scooby[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Uma Parada para Scooby[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Tubarao Fantasma[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Tubarao Fantasma[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Scooby-Doo  Cade a Tripulasao?[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Scooby-Doo  Cade a Tripulasao?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]O Fantasma O Jogo e o Saque[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma O Jogo e o Saque[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]O Fantasma do Homem Mau Humorado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Fantasma do Homem Mau Humorado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Os Espiritos dos 76[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Os Espiritos dos 76[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T01/LS-T01E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]TEMP 02 (1977) 08 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]A Maldisao do Lago Viking[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Maldisao do Lago Viking[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T02/LS-T02E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Vampiros Morcegos e Outros Bichos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Vampiros Morcegos e Outros Bichos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T02/LS-T02E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Aguenta ai  Scooby[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Aguenta ai  Scooby[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T02/LS-T02E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]O Filme de Terror[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Filme de Terror[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T02/LS-T02E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]A Corrida Arrepiante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Corrida Arrepiante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T02/LS-T02E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]A Bruxa de Ozark[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Bruxa de Ozark[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T02/LS-T02E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]O Cruzeiro Assustador[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Cruzeiro Assustador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T02/LS-T02E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Pavor das Profundezas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Pavor das Profundezas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T02/LS-T02E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]TEMP 03 (1978) 16 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Cuidado com o Willawaw[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Cuidado com o Willawaw[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Um Assombroso Triangulo das Bermudas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Um Assombroso Triangulo das Bermudas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Um Encontro Assustador com o Monstro da Neve[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Um Encontro Assustador com o Monstro da Neve[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Como Expulsar uma Bruxa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Como Expulsar uma Bruxa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Monstro de Breu[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Monstro de Breu[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Encontro com o Monstro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Encontro com o Monstro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]O Fantasma do Cara de Ferro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]O Fantasma do Cara de Ferro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Aventura Arrepiante na Selva[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Aventura Arrepiante na Selva[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]A Gata Fantasma[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]A Gata Fantasma[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]O Monstro Super Aterrador[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]O Monstro Super Aterrador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]O Demonio Diabolico[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]O Demonio Diabolico[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]O Biscoito Chines da Sorte[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]O Biscoito Chines da Sorte[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Ameasa em Veneza[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Ameasa em Veneza[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]Nao se Aproxime da Fortaleza do Medo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Nao se Aproxime da Fortaleza do Medo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]O Bruxo de Winbledon[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]O Bruxo de Winbledon[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]Aventura no Fundo do Mar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Aventura no Fundo do Mar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Scooby.Doo/DSH/1976.Show.Scooby/T03/LS-T03E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
