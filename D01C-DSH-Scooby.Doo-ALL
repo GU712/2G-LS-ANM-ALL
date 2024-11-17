@@ -71,9 +71,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Show do Scooby Doo (1976-1978) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]O Show do Scooby Doo (1976-1978) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D01C3-DSH-Show.Scooby.1976-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/eMjh0awexImSylPhwsiCzLtXx8i.jpg</thumbnail>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>	
 <fanart>https://image.tmdb.org/t/p/original/9g0A4WGjqoV9qdcQA2P7bZCuhWI.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]O Show do Scooby Doo
@@ -81,7 +81,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1976 a 1978
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 40 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
