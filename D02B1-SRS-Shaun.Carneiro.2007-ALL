@@ -1,687 +1,1450 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]Shaun, o Carneiro[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+<info>[COLOR white]Assista aqui a série:
+[B]Shaun, o Carneiro
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2007 a 2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 150  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Acompanhe as aventuras do travesso Shaun com seu primo Timmy, o cão pastor Bitzer,
+ o gato invejoso Pidsley e sua amiga Shirley.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (2007) 40 EPs - SD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]O Repolhobol[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Repolhobol[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E01.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]A Hora do Banho[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Hora do Banho[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E02.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Em Forma com o Shaun[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Em Forma com o Shaun[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E03.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Timmy Triste[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Timmy Triste[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E04.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]A Guerra das Masans[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Guerra das Masans[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E05.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]A Obra de Arte[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Obra de Arte[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E06.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]O Devorador de Grama[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Devorador de Grama[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E07.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Vontade de Pizza[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Vontade de Pizza[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E08.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]O Bufalo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Bufalo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E09.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Festa na Fazenda[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Festa na Fazenda[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E10.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]A Pipa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]A Pipa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E11.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]A Fazenda do Terror[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]A Fazenda do Terror[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E12.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Xo, Abelhas! [/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Xo, Abelhas! [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E13.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]A Tosquia[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]A Tosquia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E14.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Shaun Fotografo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Shaun Fotografo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E15.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Timmy Arma Um Circo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Timmy Arma Um Circo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E16.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Atrasao[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Atrasao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E17.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]A Toupeira[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]A Toupeira[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E18.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Quem E A Mamae?[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Quem E A Mamae?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E19.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]O Rebanho Assustado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]O Rebanho Assustado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E20.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Abracadabra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Abracadabra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E21.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]O Cordeiro Perdido[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]O Cordeiro Perdido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E22.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]A Lavada[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]A Lavada[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E23.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]O Visitante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]O Visitante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E24.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Shaun, o Fazendeiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Shaun, o Fazendeiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E25.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]A Fada do Dente[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]A Fada do Dente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E26.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E27[COLOR yellow] -> [COLOR white]Cimento Fresco[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E27[COLOR yellow] -> [COLOR white]Cimento Fresco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E27.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/27.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E28[COLOR yellow] -> [COLOR white]Soluso[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E28[COLOR yellow] -> [COLOR white]Soluso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E28.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/28.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E29[COLOR yellow] -> [COLOR white]Se Voce Nao Suporta o Calor[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E29[COLOR yellow] -> [COLOR white]Se Voce Nao Suporta o Calor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E29.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/29.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E30[COLOR yellow] -> [COLOR white]O Rebanho Sonambulo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E30[COLOR yellow] -> [COLOR white]O Rebanho Sonambulo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E30.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/30.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E31[COLOR yellow] -> [COLOR white]Arrumando Tudo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E31[COLOR yellow] -> [COLOR white]Arrumando Tudo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E31.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/31.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E32[COLOR yellow] -> [COLOR white]A Sobrinha do Fazendeiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E32[COLOR yellow] -> [COLOR white]A Sobrinha do Fazendeiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E32.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/32.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E33[COLOR yellow] -> [COLOR white]Caos no Acampamento[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E33[COLOR yellow] -> [COLOR white]Caos no Acampamento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E33.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/33.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E34[COLOR yellow] -> [COLOR white]O Robo Pastor[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E34[COLOR yellow] -> [COLOR white]O Robo Pastor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E34.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/34.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E35[COLOR yellow] -> [COLOR white]O Trator Quebrado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E35[COLOR yellow] -> [COLOR white]O Trator Quebrado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E35.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/35.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E36[COLOR yellow] -> [COLOR white]Colados[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E36[COLOR yellow] -> [COLOR white]Colados[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E36.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/36.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E37[COLOR yellow] -> [COLOR white]Shaun Metalico[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E37[COLOR yellow] -> [COLOR white]Shaun Metalico[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E37.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/37.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E38[COLOR yellow] -> [COLOR white]O Ronco de Shirley[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E38[COLOR yellow] -> [COLOR white]O Ronco de Shirley[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E38.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/38.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E39[COLOR yellow] -> [COLOR white]Salvem as Arvores[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E39[COLOR yellow] -> [COLOR white]Salvem as Arvores[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T01/LS-T01E39.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/39.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E40[COLOR yellow] -> [COLOR white]Contatos Imediatos do Shaun[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E40[COLOR yellow] -> [COLOR white]Contatos Imediatos do Shaun[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link><link>https://ls.lsnew.workers.dev/0:/ESPC/A1-SHAUN.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEchSE9JbrJESrn6SK7UZj9ML9u.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/40.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 02 (2009) 40 EPs - SD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Problema Duplo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Problema Duplo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E01.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Traçando a Linha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Traçando a Linha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E02.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg/thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg/thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Noite em Claro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Noite em Claro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E03.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Cordeiro Saltitante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Cordeiro Saltitante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E04.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Proibido Dansar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Proibido Dansar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E05.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Tacada de Mestre[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Tacada de Mestre[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E06.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]A Peruca[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]A Peruca[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E07.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Um Avestruz Diferente[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Um Avestruz Diferente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E08.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Timmy Gigante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Timmy Gigante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E09.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Trancado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Trancado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E10.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]Falso chita[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Falso chita[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E11.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Uma Nova Armasao[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Uma Nova Armasao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E12.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]O Novo Chapeu do Bitzer[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]O Novo Chapeu do Bitzer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E13.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]O Gato e o Rato[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]O Gato e o Rato[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E14.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]O Cozinheiro Shaun[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]O Cozinheiro Shaun[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E15.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Queima de Estoque[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Queima de Estoque[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E16.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]Festa Animal[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Festa Animal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E17.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]Invertendo os Papeis[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Invertendo os Papeis[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E18.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white] Shaun Apaixonado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white] Shaun Apaixonado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E19.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]Sem Canil[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]Sem Canil[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E20.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]O Barco[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]O Barco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E21.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E22[COLOR yellow] -> [COLOR white]No Balao[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]No Balao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E22.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E23[COLOR yellow] -> [COLOR white]Shaun Salva o Galo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E23[COLOR yellow] -> [COLOR white]Shaun Salva o Galo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E23.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E24[COLOR yellow] -> [COLOR white]Formasao Basica de Bitzer[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E24[COLOR yellow] -> [COLOR white]Formasao Basica de Bitzer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E24.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E25[COLOR yellow] -> [COLOR white]A Escultura[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E25[COLOR yellow] -> [COLOR white]A Escultura[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E25.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E26[COLOR yellow] -> [COLOR white]Problema Suino[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E26[COLOR yellow] -> [COLOR white]Problema Suino[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E26.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E27[COLOR yellow] -> [COLOR white]O Bitzer do Lago Preto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E27[COLOR yellow] -> [COLOR white]O Bitzer do Lago Preto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E27.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/27.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E28[COLOR yellow] -> [COLOR white]Patos-Zebras do Serengueti[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E28[COLOR yellow] -> [COLOR white]Patos-Zebras do Serengueti[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E28.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/28.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E29[COLOR yellow] -> [COLOR white]A Corneta[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E29[COLOR yellow] -> [COLOR white]A Corneta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E29.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/29.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E30[COLOR yellow] -> [COLOR white]A Grande Perseguisao[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E30[COLOR yellow] -> [COLOR white]A Grande Perseguisao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E30.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/30.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E31[COLOR yellow] -> [COLOR white]A Pega[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E31[COLOR yellow] -> [COLOR white]A Pega[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E31.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/31.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E32[COLOR yellow] -> [COLOR white]Operasao Pidsley[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E32[COLOR yellow] -> [COLOR white]Operasao Pidsley[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E32.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/32.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E33[COLOR yellow] -> [COLOR white]Os Porcos Voadores[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E33[COLOR yellow] -> [COLOR white]Os Porcos Voadores[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E33.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E34[COLOR yellow] -> [COLOR white]Shirley Sobre Rodas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E34[COLOR yellow] -> [COLOR white]Shirley Sobre Rodas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E34.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/34.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E35[COLOR yellow] -> [COLOR white]Raposa-Carneiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E35[COLOR yellow] -> [COLOR white]Raposa-Carneiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E35.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/35.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E36[COLOR yellow] -> [COLOR white]Bilhar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E36[COLOR yellow] -> [COLOR white]Bilhar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E36.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/36.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E37[COLOR yellow] -> [COLOR white]O Cata-Vento[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E37[COLOR yellow] -> [COLOR white]O Cata-Vento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E37.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/37.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E38[COLOR yellow] -> [COLOR white]Lareira Favorita[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E38[COLOR yellow] -> [COLOR white]Lareira Favorita[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E38.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/38.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E39[COLOR yellow] -> [COLOR white]Na Neve[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E39[COLOR yellow] -> [COLOR white]Na Neve[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E39.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/39.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E40Desejamos Um Feliz Natal[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E40Desejamos Um Feliz Natal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T02/LS-T02E40.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7xH2ehYREtFBstH8lUfKj1QPUZE.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/40.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 03 (2012) 20 EPs - SD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Cadê o Leite?[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Cadê o Leite?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E01.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]O Côco[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]O Côco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E02.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]O Pastor[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]O Pastor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E03.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Limpando as Vidraças[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Limpando as Vidraças[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E04.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Os Pichadores[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Os Pichadores[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E05.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]O Corvo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]O Corvo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E06.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Shaun o Fugitivo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Shaun o Fugitivo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E07.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Difícil de Engolir[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Difícil de Engolir[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E08.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Missão Quase Impossível[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Missão Quase Impossível[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E09.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Adeus Celeiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Adeus Celeiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E10.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]A Grande Partida[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]A Grande Partida[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E11.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Noite das Lembranças[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Noite das Lembranças[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E12.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]O Mapa do Tesouro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]O Mapa do Tesouro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E13.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]Carneiro Skatista[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Carneiro Skatista[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E14.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]O Piano[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]O Piano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E15.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]Foto de Família[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Foto de Família[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E16.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR white]Calor Escaldante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]Calor Escaldante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E17.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]A Asa Delta[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]A Asa Delta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E18.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E19[COLOR yellow] -> [COLOR white]Diversão Noturna[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR white]Diversão Noturna[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E19.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR white]Visita Indesejada[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white]Visita Indesejada[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T03/LS-T03E20.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MnqyxnWAOTfU1yWvpff4hXScSZ.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 04 (2014) 30 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]O Caminhão de Sorvete[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]O Caminhão de Sorvete[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E01.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]Uma Visita de Outro Mundo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Uma Visita de Outro Mundo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E02.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Feliz Aniversário Timmy![/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Feliz Aniversário Timmy![COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E03.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]O Gênio[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]O Gênio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E04.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]A Nova TV[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]A Nova TV[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E05.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]O Fazendeiro Fedorento[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]O Fazendeiro Fedorento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E06.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]Faça Você Mesmo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Faça Você Mesmo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E07.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]O Coelho[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]O Coelho[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E08.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]O Bilhete Premiado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]O Bilhete Premiado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E09.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]A Aranha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]A Aranha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E10.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]O Que Deu no Bitzer?[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]O Que Deu no Bitzer?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E11.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Homens Trabalhando[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Homens Trabalhando[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E12.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]O Show de Cães[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]O Show de Cães[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E13.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]A Peça Que Faltava[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]A Peça Que Faltava[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E14.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E15[COLOR yellow] -> [COLOR white]Observando a Vida Selvagem[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Observando a Vida Selvagem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E15.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E16[COLOR yellow] -> [COLOR white]O Pelicano[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]O Pelicano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E16.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E17[COLOR yellow] -> [COLOR white]O Pestinha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white]O Pestinha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E17.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E18[COLOR yellow] -> [COLOR white]O Controle Remoto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white]O Controle Remoto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E18.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E19[COLOR yellow] -> [COLOR white]O Substituto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E19[COLOR yellow] -> [COLOR white]O Substituto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E19.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E20[COLOR yellow] -> [COLOR white]Um Dia de Cão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR white]Um Dia de Cão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E20.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E21[COLOR yellow] -> [COLOR white]O Intruso[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E21[COLOR yellow] -> [COLOR white]O Intruso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E21.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E22[COLOR yellow] -> [COLOR white]Carneiro de Guarda[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR white]Carneiro de Guarda[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E22.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E23[COLOR yellow] -> [COLOR white]O Segredo de Bitzer[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E23[COLOR yellow] -> [COLOR white]O Segredo de Bitzer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E23.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E24[COLOR yellow] -> [COLOR white]A Partida de Ping-Pong[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E24[COLOR yellow] -> [COLOR white]A Partida de Ping-Pong[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E24.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E25[COLOR yellow] -> [COLOR white]Talentos Ocultos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E25[COLOR yellow] -> [COLOR white]Talentos Ocultos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E25.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E26[COLOR yellow] -> [COLOR white]Dia de Arrumação[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E26[COLOR yellow] -> [COLOR white]Dia de Arrumação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E26.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E27[COLOR yellow] -> [COLOR white]Salvem Nossa Terra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E27[COLOR yellow] -> [COLOR white]Salvem Nossa Terra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E27.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/27.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E28[COLOR yellow] -> [COLOR white]Cai Fora![/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E28[COLOR yellow] -> [COLOR white]Cai Fora![COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E28.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/28.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E29[COLOR yellow] -> [COLOR white]Hipnotizados[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E29[COLOR yellow] -> [COLOR white]Hipnotizados[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E29.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/29.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E30[COLOR yellow] -> [COLOR white]Novos Amigos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E30[COLOR yellow] -> [COLOR white]Novos Amigos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T04/LS-T04E30.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ld6A9dUWg5gbRzhI0sMNeWwQMZX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/30.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 05 (2016) 20 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/05.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E01[COLOR yellow] -> [COLOR white]Em Manutenção[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Em Manutenção[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E02[COLOR yellow] -> [COLOR white]Do Karma Ninguém Escapa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Do Karma Ninguém Escapa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E03[COLOR yellow] -> [COLOR white]Desmancha-Prazeres[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Desmancha-Prazeres[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E04[COLOR yellow] -> [COLOR white]Um Dia Daaaaqueles[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Um Dia Daaaaqueles[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E05[COLOR yellow] -> [COLOR white]O Sobrinho do Fazendeiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]O Sobrinho do Fazendeiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E06[COLOR yellow] -> [COLOR white]Bitzer de Babá[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Bitzer de Babá[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E07[COLOR yellow] -> [COLOR white]Inquilino Suspeito[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Inquilino Suspeito[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E08[COLOR yellow] -> [COLOR white]Entregas Perigosas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Entregas Perigosas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E09[COLOR yellow] -> [COLOR white]Timmy e o Dragão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Timmy e o Dragão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E10[COLOR yellow] -> [COLOR white]O Apito Novo de Bitzer[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]O Apito Novo de Bitzer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E11[COLOR yellow] -> [COLOR white]Gangues em Guerra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E11[COLOR yellow] -> [COLOR white]Gangues em Guerra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E12[COLOR yellow] -> [COLOR white]Um Problema Espinhoso[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E12[COLOR yellow] -> [COLOR white]Um Problema Espinhoso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E13[COLOR yellow] -> [COLOR white]Procura-se[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E13[COLOR yellow] -> [COLOR white]Procura-se[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E14[COLOR yellow] -> [COLOR white]Sujeito Arrogante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E14[COLOR yellow] -> [COLOR white]Sujeito Arrogante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E15[COLOR yellow] -> [COLOR white]Tudo na Paz[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E15[COLOR yellow] -> [COLOR white]Tudo na Paz[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E16[COLOR yellow] -> [COLOR white]Feliz Dia do Fazendeiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E16[COLOR yellow] -> [COLOR white]Feliz Dia do Fazendeiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E17[COLOR yellow] -> [COLOR white]Lista de Verificação[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E17[COLOR yellow] -> [COLOR white]Lista de Verificação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E18[COLOR yellow] -> [COLOR white]Devolver ao Remetente[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E18[COLOR yellow] -> [COLOR white]Devolver ao Remetente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E19[COLOR yellow] -> [COLOR white]Cone da Vergonha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E19[COLOR yellow] -> [COLOR white]Cone da Vergonha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E20[COLOR yellow] -> [COLOR white]Pastoreio[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E20[COLOR yellow] -> [COLOR white]Pastoreio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Shaun.Carneiro/SRS/2007.Shaun.Carneiro/T05/LS-T05E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart></item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<thumbnail>https://www.themoviedb.org/t/p/original/x7PO4WLqCH0uZwLGPSTLcjWbQ8T.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/v8e26YNBLViCsPPQ67NuZiy90Gk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
