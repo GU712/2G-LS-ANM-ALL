@@ -118,8 +118,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]He-Man e os Mestres do Universo (2021-2022) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D5C2-DSH-Mestres.do.Universo.2021-ALL</externallink>
+<name>[COLOR white][B]He-Man e os Mestres do Universo (2021-2022) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D05C2-DSH-Mestres.do.Universo.2021-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/7YTFcLehct6L5yAjidaDgBohK6U.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9acLv9e8SCQNBilCEpcNt0Iba05.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
@@ -128,7 +128,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021 a 2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 26 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O jovem Adam e seus amigos descobrem os lendários poderes de Grayskull — e aceitam a missão de defender Eternia do temível Esqueleto.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O jovem Adam e seus amigos descobrem os lendários poderes de Grayskull — e aceitam a
+ missão de defender Eternia do temível Esqueleto.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
