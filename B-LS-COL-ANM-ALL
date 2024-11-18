@@ -239,16 +239,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Muppets (10 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D4A-FLM-Muppets-ALL</externallink>
-<thumbnail>https://i.ibb.co/PMBV0wG/COL-MUPPETS-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/nbH4HGX/COL-MUPPETS-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Os Muppets (10 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D04A-FLM-Muppets-ALL</externallink>
+<thumbnail>https://i.ibb.co/PwnTHvZ/ESP-MUPPETS-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/0qqcg2B/ESP-MUPPETS-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Os Muppets
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
