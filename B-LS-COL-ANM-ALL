@@ -291,16 +291,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Shaun Carneiro (04 Filmes)[/B][/COLOR]</name>
+<name>[COLOR white][B]Shaun Carneiro (04 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D02A-FLM-Shaun.Carneiro-ALL</externallink>
-<thumbnail>https://i.ibb.co/MpkPc5C/COL-SHAUN-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Xp4DZmG/COL-SHAUN-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/9YqVBTB/ESP-SHAUN-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/mBWYsN5/ESP-SHAUN-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Shaun Carneiro
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
