@@ -99,16 +99,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Garfield (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D6A-FLM-Garfield-ALL</externallink>
-<thumbnail>https://i.ibb.co/1Tvh8NM/COL-GARFIELD-ICON-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/v3H9b32/COL-GARFIELD-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Garfield (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D06A-FLM-Garfield-ALL</externallink>
+<thumbnail>https://i.ibb.co/RBwDbL7/ESP-GARFIELD-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/0DGJCpw/ESP-GARFIELD-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Garfield
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
