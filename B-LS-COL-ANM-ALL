@@ -181,16 +181,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Monstros S.A. (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/B2-COL-Monstros.SA-ALL</externallink>
-<thumbnail>https://i.ibb.co/wWgPm07/COL-MONSTROS-SA-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/M63NvdX/COL-MONSTROS-SA-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Monstros S/A (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D08A-FLM-Monstros.SA-ALL</externallink>
+<thumbnail>https://i.ibb.co/RcwQRzQ/ESP-MONSTROS-SA-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/hdDSgBd/ESP-MONSTROS-SA-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
-[B]Monstros S.A.
+[B]Monstros.SA
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
