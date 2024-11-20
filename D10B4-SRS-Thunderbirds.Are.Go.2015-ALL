@@ -1,152 +1,290 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]Thunderbirds Are Go![/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/mBg8HsWI9powZJzhYJa1VLTFANU.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Thunderbirds Are Go!
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2015 a 2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 78 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Jeff Tracy cria a equipe do Resgate Internacional com uma nave espacial e veículos 
+especiais para ajudar pessoas em perigo.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (2015) 26 EPs - HD DUAL[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Anel de Fogo (Parte 1)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E01</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Anel de Fogo (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E01</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Anel de Fogo (Parte 2)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E02</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Anel de Fogo (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E02</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Corrida Espacial[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E03</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Corrida Espacial[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E03</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Corte Transversal[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E04</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Corte Transversal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E04</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Fireflash[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E05</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Fireflash[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E05</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Desconectado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E06</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Desconectado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E06</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Fora de Controle[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E07</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Fora de Controle[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E07</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]EOS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E08</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]EOS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E08</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Ao Redor do Sol[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E09</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Ao Redor do Sol[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E09</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Tuneis do Tempo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E10</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Tuneis do Tempo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E10</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Cabo Espacial[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E11</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Cabo Espacial[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E11</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Sob Pressao[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E12</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Sob Pressao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E12</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]O Pozo Gravitacional[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E13</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O Pozo Gravitacional[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E13</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Sabotagem[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E14</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Sabotagem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E14</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Reliquia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E15</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Reliquia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E15</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Enguizado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E16</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Enguizado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E16</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]O Roubo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E17</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]O Roubo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E17</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Recarga[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E18</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Recarga[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E18</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Extrasao[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E19</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Extrasao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E19</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]O Especialista[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E20</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]O Especialista[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E20</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Os Cazadores de Cometas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E21</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Os Cazadores de Cometas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E21</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]Aprendiz de Motorista[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E22</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Aprendiz de Motorista[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E22</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Cadeia de Comando[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E23</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Cadeia de Comando[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E23</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Situasao Perigosa[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E24</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Situasao Perigosa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E24</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Infiltrados[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E25</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Infiltrados[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E25</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]Legado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/NEW/T01/LS-T01E26</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qv0Xm8jdZE6wjrDiALg6Po8xiLV.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Legado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/2021.Thunderbirds/T01/LS-T01E26</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
