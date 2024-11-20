@@ -1,176 +1,344 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]Captain Scarlet[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D10B3-SRS-Captain.Scarlet.1967-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Captain Scarlet
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 32 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma Série antiga e sensacional na técnica de manipulação de marionetes.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1967) 32 EPs - SD LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Os Misterons[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Os Misterons[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Assassinos com asas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Assassinos com asas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Big Ban Ataca Novamente[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Big Ban Ataca Novamente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Caçada humana[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Caçada humana[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Avalanche[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Avalanche[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Branco como a neve[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Branco como a neve[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]A Armadilha[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]A Armadilha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Operação Tempo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Operação Tempo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Espectro ContraAtaca[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Espectro ContraAtaca[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Missão Especial[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Missão Especial[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]O Coração de Nova York[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]O Coração de Nova York[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Os Lunarville[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Os Lunarville[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Ponto 783[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Ponto 783[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Modelo Espião[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Modelo Espião[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Buscar e destruir[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Buscar e destruir[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Foguete Renegado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Foguete Renegado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Cratera 101[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Cratera 101[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Sombra do Medo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Sombra do Medo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Encontro Perigoso[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Encontro Perigoso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Fogo na sonda [/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Fogo na sonda [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Cruz tripla[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Cruz tripla[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E21.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]Voo 104[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Voo 104[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E22.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Lugar dos anjos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Lugar dos anjos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E23.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Laço de gelo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Laço de gelo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E24.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Expo 2068[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Expo 2068[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E25.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]O lançamento[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E26.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]O lançamento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E26.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E27[COLOR yellow] -> [COLOR white]Codinome Europa[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E27.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E27[COLOR yellow] -> [COLOR white]Codinome Europa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E27.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/27.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E28[COLOR yellow] -> [COLOR white]Inferno[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E28.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E28[COLOR yellow] -> [COLOR white]Inferno[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E28.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/28.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E29[COLOR yellow] -> [COLOR white]Traidor[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E29.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E29[COLOR yellow] -> [COLOR white]Traidor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E29.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/29.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E30[COLOR yellow] -> [COLOR white]Voo Para Atlântica[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E30.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E30[COLOR yellow] -> [COLOR white]Voo Para Atlântica[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E30.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/30.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E31[COLOR yellow] -> [COLOR white]Ataque à base Cloud[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E31.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E31[COLOR yellow] -> [COLOR white]Ataque à base Cloud[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E31.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/31.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E32[COLOR yellow] -> [COLOR white]A Inquisição[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Captain.Scarlet/LS-T01E32.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E32[COLOR yellow] -> [COLOR white]A Inquisição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/1967.Captain.Scarlet/LS-T01E32.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/32.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/sDXpAPO6MudcF98AH599RJc2Bbg.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
