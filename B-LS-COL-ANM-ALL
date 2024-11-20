@@ -67,17 +67,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Curtas da Disney (1921-1965) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR white][B]Curtas da Disney (1921-1965) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/A-FLMS-DSNHS-ALL</externallink>
-<thumbnail>https://i.ibb.co/SyLyn18/COL-CURTAS-DISNEY-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/jVZKHpY/COL-OLD-DISNEY-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/4SfyDBb/COL-OLD-DISNEY-FAN.png</fanart>
 <info>[COLOR white]Assista aqui a coleção:
 [B]Curtas da Disney
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1921 a 1965
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]247 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma coleção de curtas dos Estúdios Disney que irá despertar emoções e saudades.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma coleção de curtas dos Estúdios Disney que irá despertar emoções e saudades.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
