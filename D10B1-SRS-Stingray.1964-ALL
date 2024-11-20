@@ -1,204 +1,407 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]Stingray[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Stingray
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1964
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 39 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Stingray era um sofisticado submarino atômico de combate construído para ser rápido e ágil
+ a serviço da "Patrulha Aquática Para a Segurança Mundial" sediada em Marineville no ano de 2065.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1964) 11 EPs - HD LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Stingray (Piloto)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Stingray (Piloto)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Emergência Marineville[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Emergência Marineville[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Navio Fantasma[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Navio Fantasma[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Mar Subterrâneo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Mar Subterrâneo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Monstro do lago Ness[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Monstro do lago Ness[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Navegue para a Aventura[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Navegue para a Aventura[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]O Homem da Marinha[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Homem da Marinha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Um eco do Perigo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Um eco do Perigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Arrebatamentos das Profundezas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Arrebatamentos das Profundezas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Titã Fica Pop[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Titã Fica Pop[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Em Busca do Tajmanon[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Em Busca do Tajmanon[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Um Natal para Lembrar[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Um Natal para Lembrar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Melodia do Perigo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Melodia do Perigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]O Fantasma do Mar[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]O Fantasma do Mar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Resgate dos Céus[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Resgate dos Céus[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Os Moradores do Farol[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Os Moradores do Farol[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]A Grande Arma[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]A Grande Arma[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]O Legal Homem das Cavernas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]O Legal Homem das Cavernas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Calor profundo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Calor profundo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Estrela do Leste[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Estrela do Leste[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Inimigo Invisível[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Inimigo Invisível[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E21.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]Tom Thumb Tempest[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]Tom Thumb Tempest[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E22.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Eclipse Oriental[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Eclipse Oriental[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E23.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Tesouro Abaixo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Tesouro Abaixo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E24.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Aguarde a Ação[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Aguarde a Ação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E25.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]Gelo Rosa[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E26.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]Gelo Rosa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E26.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E27[COLOR yellow] -> [COLOR white]Os Navios Desaparecidos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E27.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E27[COLOR yellow] -> [COLOR white]Os Navios Desaparecidos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E27.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E28[COLOR yellow] -> [COLOR white]Segredo da Ostra Gigante[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E28.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E28[COLOR yellow] -> [COLOR white]Segredo da Ostra Gigante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E28.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E29[COLOR yellow] -> [COLOR white]Os Invasores[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E29.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E29[COLOR yellow] -> [COLOR white]Os Invasores[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E29.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E30[COLOR yellow] -> [COLOR white]Uma Porca para Marineville[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E30.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E30[COLOR yellow] -> [COLOR white]Uma Porca para Marineville[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E30.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E31[COLOR yellow] -> [COLOR white]Preso nas Profundezas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E31.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E31[COLOR yellow] -> [COLOR white]Preso nas Profundezas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E31.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E32[COLOR yellow] -> [COLOR white]Contagem Regressiva[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E32.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E32[COLOR yellow] -> [COLOR white]Contagem Regressiva[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E32.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E33[COLOR yellow] -> [COLOR white]Mar de Petróleo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E33.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E33[COLOR yellow] -> [COLOR white]Mar de Petróleo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E33.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E34[COLOR yellow] -> [COLOR white]Planta da Perdição[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E34.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E34[COLOR yellow] -> [COLOR white]Planta da Perdição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E34.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E35[COLOR yellow] -> [COLOR white]O Plano Mestre[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E35.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E35[COLOR yellow] -> [COLOR white]O Plano Mestre[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E35.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E36[COLOR yellow] -> [COLOR white]O Mar Dourado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E36.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E36[COLOR yellow] -> [COLOR white]O Mar Dourado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E36.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E37[COLOR yellow] -> [COLOR white]Reféns das Profundezas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E37.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E37[COLOR yellow] -> [COLOR white]Reféns das Profundezas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E37.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E38[COLOR yellow] -> [COLOR white]Traidor de Marineville[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E38.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E38[COLOR yellow] -> [COLOR white]Traidor de Marineville[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E38.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T01E39[COLOR yellow] -> [COLOR white]Aquanauta do Ano[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Stingray/LS-T01E39.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart></item>
+item><title>[COLOR orange][B]LS-T01E39[COLOR yellow] -> [COLOR white]Aquanauta do Ano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/SRS/Stingray.1964/LS-T01E39.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
