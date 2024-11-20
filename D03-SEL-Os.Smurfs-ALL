@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D03-SEL-Os.Smurfs-ALL</externallink>
 <thumbnail>https://i.ibb.co/266Q0jp/SEL-ITEM-ESPC-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Smurfs (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<name>[COLOR white][B]Os Smurfs (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D03A-FLM-Os.Smurfs-ALL</externallink>
 <thumbnail>https://i.ibb.co/9YqVBTB/ESP-SHAUN-FLM.png</thumbnail>
 <fanart>https://i.ibb.co/rZmGptc/ESP-SMURF-FAN.png</fanart>
@@ -32,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Smurfs (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<name>[COLOR white][B]Os Smurfs (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D03B-DSH-Os.Smurfs-ALL</externallink>
 <thumbnail>https://i.ibb.co/41Y2hdn/ESP-SMURF-DSH.png</thumbnail>
 <fanart>https://i.ibb.co/rZmGptc/ESP-SMURF-FAN.png</fanart>
