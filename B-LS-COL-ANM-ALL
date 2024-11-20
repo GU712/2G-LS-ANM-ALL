@@ -228,16 +228,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Croods (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/B1-COL-Croods-ALL</externallink>
-<thumbnail>https://i.ibb.co/8D5wbwV/COL-CROODS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Q6D2tqL/COL-CROODS-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Os Croods (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D11A-FLM-Croods-ALL</externallink>
+<thumbnail>https://i.ibb.co/5nd8DBF/ESP-CROODS-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/zRY0TXh/ESP-CROODS-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Os Croods
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
