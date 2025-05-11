@@ -20,14 +20,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Casa Coruja (2020-2022) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/C2-SRS-A.Casa.Coruja-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/mxsDvwgxxUGCetnKAerWUsMk2vY.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/r1p7PmjOeI7OsbZlFxEGsG3qiQq.jpg</fanart>
-<info>Assista a série A Casa Coruja. 
-[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]
-[COLOR orange][B]03 TEMPS - 40 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2020 a 2022[/B][/COLOR]</info>
+<name>[COLOR white][B]A Casa Coruja (2020-2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/C001-SRS-A.Casa.Coruja.2020-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/c3ygNz5qEETOUSAWa7v6B7gT8JS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cXlyBXUg6G1qqHntUwkJAjdv8b9.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Casa Coruja
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 40 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Luz, uma adolescente humana segura de si, tropeça acidentalmente em um portal 
+para um reino mágico, onde faz amizade com uma bruxa rebelde.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
