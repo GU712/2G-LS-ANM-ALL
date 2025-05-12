@@ -1,16 +1,19 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D12C-DSH-Pica-Pau-ALL</externallink>
 <thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>	
-</item>	
+E DIVIRTA-SE </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>	
-<title>[COLOR orange][B]Pica-Pau e Seus Amigos[/B][/COLOR]</title>	
-<link>NOLINK</link>	
+<channels>
+<channel>
+<name>[COLOR white][B]Pica-Pau e Seus Amigos (1941-1972) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D12C1-DSH-Pica-Pau.e.Seus.Amigos.1941-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
@@ -25,393 +28,149 @@ com seus diversos amigos e inimigos.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>	
-</item>	
+[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]TEMP 01 (1941) 40 EPs - SD DUAL+LEG[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-<info>[B]FAÇA SUA ESCOLHA 
-E DIVIRTA-SE[/B]</info>		
-</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D12C-DSH-Pica-Pau-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Pica-Pau Ataca Novamente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E00.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Biruta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E01.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Pânico na Cozinha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E02.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Matador De Hollywood[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E03.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Um As Demais[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E04.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Loja Do Prego[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E05.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Baseball Maluco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E06.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Acrobata Maluco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E07.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Afanador De Gasolina[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E08.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Doido da Praia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E09.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Ski Para Dois[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E10.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Uma Dama Muito Fina[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E11.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O Pica Pau Come Fora[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E12.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Famoso Diplomata[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E13.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Biruta A Solta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E14.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Quem Cozinha Quem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E15.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Hora Do Banho[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E16.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Carteira de Motorista[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E17.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Amigos Penosos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E18.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Presuntos Defumados[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E19.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]O Passarinho do Relógio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E20.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Roubando Gasolina[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E21.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]O Ovo da Galinha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E22.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Mata Gigantes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E23.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]A Cartola[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E24.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]O Fila Bóia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E25.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E27[COLOR yellow] -> [COLOR white]Hora do Bebe[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E26.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/27.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E28[COLOR yellow] -> [COLOR white]O Xerife[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E27.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/28.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E29[COLOR yellow] -> [COLOR white]O Mensageiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E28.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/29.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E30[COLOR yellow] -> [COLOR white]Durma Bem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E29.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/30.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E31[COLOR yellow] -> [COLOR white]Cricket Maluco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E30.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/31.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E32[COLOR yellow] -> [COLOR white]Campeão do Estilingue[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E31.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/32.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E33[COLOR yellow] -> [COLOR white]Os Trabalhadores Da Floresta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E32.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/33.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E34[COLOR yellow] -> [COLOR white]A Polka do Pica Pau[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E33.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/34.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E35[COLOR yellow] -> [COLOR white]Uma Aventura no Supermercado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E34.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/35.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E36[COLOR yellow] -> [COLOR white]Nascido Para Picar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E35.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/36.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E37[COLOR yellow] -> [COLOR white]O Grande Logro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E36.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/37.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E38[COLOR yellow] -> [COLOR white]Campeão de Golf[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E37.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/38.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E39[COLOR yellow] -> [COLOR white]O Cabeleireiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E38.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/39.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item><title>[COLOR orange][B]T01E40[COLOR yellow] -> [COLOR white]O Grande Quem Faz Isso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Pica-Pau/DSH/1941.Pica.Pau.e.Amigos/SD-DUAL/LS-T01E39.mkv</link>
-<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/40.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
-[COLOR black].[/COLOR]
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
-     CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+<channels>
+<channel>
+<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D12C-DSH-Pica-Pau-ALL</externallink>
+<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
-<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
+<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]NOVIDADES DA SEMANA
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos que foram adicionados no SERVER LS durante a semana, é dividida em dois setores FILMES e SÉRIES. 
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]NOSTALGIA
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o conteúdo raro e antigo, lançados até ano 2000 , organizado por décadas, material comprado de colecionadores com as CONTRIBUIÇÕES recebidas.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]ESPECIAIS
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para a seção com as Franquias Especiais , Cine Gospel e Doramas ...Um espaço para o conteúdo extraordinário e não convencional. 
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]SÉRIES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, no decorrer de diversas temporadas.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]FILMES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
+<thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]FILMES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em formato para ser exibido no cinema, televisão ou outro veículo, sendo curtos ou longos. Utiliza diversos servidores.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]MENU GERAL
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o menu principal retorne e realize uma nova escolha entre as seções do Add on.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
